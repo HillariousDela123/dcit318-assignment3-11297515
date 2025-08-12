@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\dcit318-assignment3-11297515\Warehouse Inventory Management system\bin\Debug\net8.0\Warehouse Inventory Management system.exe
+C:\Users\HP\source\repos\dcit318-assignment3-11297515\Warehouse Inventory Management system\bin\Debug\net8.0\Warehouse Inventory Management system.deps.json
+C:\Users\HP\source\repos\dcit318-assignment3-11297515\Warehouse Inventory Management system\bin\Debug\net8.0\Warehouse Inventory Management system.runtimeconfig.json
+C:\Users\HP\source\repos\dcit318-assignment3-11297515\Warehouse Inventory Management system\bin\Debug\net8.0\Warehouse Inventory Management system.dll
+C:\Users\HP\source\repos\dcit318-assignment3-11297515\Warehouse Inventory Management system\bin\Debug\net8.0\Warehouse Inventory Management system.pdb
+C:\Users\HP\source\repos\dcit318-assignment3-11297515\Warehouse Inventory Management system\obj\Debug\net8.0\Warehouse Inventory Management system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\dcit318-assignment3-11297515\Warehouse Inventory Management system\obj\Debug\net8.0\Warehouse Inventory Management system.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\dcit318-assignment3-11297515\Warehouse Inventory Management system\obj\Debug\net8.0\Warehouse Inventory Management system.AssemblyInfo.cs
+C:\Users\HP\source\repos\dcit318-assignment3-11297515\Warehouse Inventory Management system\obj\Debug\net8.0\Warehouse Inventory Management system.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\dcit318-assignment3-11297515\Warehouse Inventory Management system\obj\Debug\net8.0\Warehouse Inventory Management system.sourcelink.json
+C:\Users\HP\source\repos\dcit318-assignment3-11297515\Warehouse Inventory Management system\obj\Debug\net8.0\Warehouse Inventory Management system.dll
+C:\Users\HP\source\repos\dcit318-assignment3-11297515\Warehouse Inventory Management system\obj\Debug\net8.0\refint\Warehouse Inventory Management system.dll
+C:\Users\HP\source\repos\dcit318-assignment3-11297515\Warehouse Inventory Management system\obj\Debug\net8.0\Warehouse Inventory Management system.pdb
+C:\Users\HP\source\repos\dcit318-assignment3-11297515\Warehouse Inventory Management system\obj\Debug\net8.0\Warehouse Inventory Management system.genruntimeconfig.cache
+C:\Users\HP\source\repos\dcit318-assignment3-11297515\Warehouse Inventory Management system\obj\Debug\net8.0\ref\Warehouse Inventory Management system.dll
