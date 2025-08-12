@@ -1,0 +1,5 @@
+John Doe (ID: 1): Score = 85, Grade = A
+Jane Smith (ID: 2): Score = 73, Grade = B
+David Johnson (ID: 3): Score = 59, Grade = D
+Emily Brown (ID: 4): Score = 47, Grade = F
+Michael White (ID: 5): Score = 90, Grade = A

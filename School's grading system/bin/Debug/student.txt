@@ -1,0 +1,4 @@
+101, Alice Smith, 84
+102, John Doe, 72
+103, Sarah Johnson, 58
+104, Michael Brown, 47
